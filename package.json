@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/**/*.js",
-    "sample-test": "browserstack-node-sdk mocha test/searchcompany.spec.js --timeout=60000"
+    "sample-test": "browserstack-node-sdk mocha test/checkevent.spec.js --timeout=60000"
   },
   "keywords": [],
   "author": "Alexander Kutjin",

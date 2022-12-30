@@ -4,10 +4,10 @@ const { Builder, Browser, } = require('selenium-webdriver');
 const Driver = require("../driver/Driver");
 const Constants = require("../config/constants");
 const DataReaderService = require("../services/dataReader.service");
-const BagPage = require("../pages/bagPage")
+const ShowEventsPage = require("../pages/showEventsPage");
 const HomePage = require("../pages/homePage");
 
-describe('Show empty bag.', () => {
+describe('Show event.', () => {
   before(async function () {
     const props = await DataReaderService.getTestData('test.properties');
     for (const key in props) {
@@ -19,13 +19,13 @@ describe('Show empty bag.', () => {
     this.driver = await Driver.createDriver();
   });
 
-  it('Should show empty bag.', async function () {
+  it('Should show event.', async function () {
 
     const homePage = new HomePage(this.driver);
     await homePage.openPage();
-    await homePage.clickBagButton();
-    const bagPage = new BagPage(this.driver);
-    expect(await bagPage.checkEmptybagMessage()).to.contain(this.emptybagValue);                   
+    await homePage.clickShowEventsButton();
+    const showEventsPage = new ShowEventsPage(this.driver);
+    expect(await showEventsPage.checkEventName()).to.contain(this.validEventName);                   
   }).timeout(Constants.TEST_TIMEOUT);
 
   afterEach(async function () {
