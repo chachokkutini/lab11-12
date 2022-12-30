@@ -1,0 +1,71 @@
+2022-12-30 04:26:46 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 04:26:50 - [32minfo[39m: Local binary started successfully
+2022-12-30 04:26:50 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 04:26:50 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 04:26:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 04:27:00 - [32minfo[39m: Local binary stopped
+2022-12-30 04:29:27 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 04:29:32 - [32minfo[39m: Local binary started successfully
+2022-12-30 04:29:32 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 04:29:32 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 04:29:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 04:30:11 - [32minfo[39m: Local binary stopped
+2022-12-30 04:53:53 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 04:53:57 - [32minfo[39m: Local binary started successfully
+2022-12-30 04:53:57 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 04:53:57 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 04:54:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 04:54:32 - [32minfo[39m: Local binary stopped
+2022-12-30 04:55:55 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 04:55:59 - [32minfo[39m: Local binary started successfully
+2022-12-30 04:55:59 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 04:55:59 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 04:56:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 04:56:35 - [32minfo[39m: Local binary stopped
+2022-12-30 04:59:40 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 04:59:45 - [32minfo[39m: Local binary started successfully
+2022-12-30 04:59:45 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 04:59:45 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 04:59:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:00:14 - [32minfo[39m: Local binary stopped
+2022-12-30 05:09:50 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:09:56 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:09:56 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:09:56 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:10:41 - [32minfo[39m: Local binary stopped
+2022-12-30 05:11:21 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:11:27 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:11:27 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:11:27 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:11:51 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:12:09 - [32minfo[39m: Local binary stopped
+2022-12-30 05:32:07 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:32:13 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:32:13 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:32:13 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:32:29 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:32:58 - [32minfo[39m: Local binary stopped
+2022-12-30 05:38:02 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:38:07 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:38:07 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:38:07 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:38:18 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:38:53 - [32minfo[39m: Local binary stopped
+2022-12-30 05:42:14 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:42:20 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:42:20 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:42:20 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:42:36 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:43:02 - [32minfo[39m: Local binary stopped
+2022-12-30 05:44:33 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:44:42 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:44:42 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:44:42 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:44:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:45:20 - [32minfo[39m: Local binary stopped
+2022-12-30 05:48:41 - [32minfo[39m: Reading configs from C:\Users\Asus\Desktop\tatlab11-12\lab11-12\browserstack.yml
+2022-12-30 05:48:47 - [32minfo[39m: Local binary started successfully
+2022-12-30 05:48:47 - [32minfo[39m: Running your mocha tests across 1 platforms
+2022-12-30 05:48:47 - [32minfo[39m: Now, showing logs from mocha
+2022-12-30 05:48:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2022-12-30 05:49:31 - [32minfo[39m: Local binary stopped
